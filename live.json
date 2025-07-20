@@ -1,0 +1,114 @@
+[
+  {
+    "homeTeam": {
+      "name": "نيويورك ريد بولز",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1338.png"
+    },
+    "awayTeam": {
+      "name": "انتر ميامي",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/54729.png"
+    },
+    "score": "1 - 5",
+    "date": "2025-07-20T02:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "نيو إنغلاند ريفوليوشن",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1337.png"
+    },
+    "awayTeam": {
+      "name": "أورلاندو سيتي",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/12204.png"
+    },
+    "score": "1 - 2",
+    "date": "2025-07-20T02:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "مونتريال امباكت",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/9127.png"
+    },
+    "awayTeam": {
+      "name": "شيكاغو فاير",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1333.png"
+    },
+    "score": "0 - 2",
+    "date": "2025-07-20T02:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "كولومبوس كرو",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1334.png"
+    },
+    "awayTeam": {
+      "name": "دي.سي. يونايتد",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1339.png"
+    },
+    "score": "2 - 1",
+    "date": "2025-07-20T02:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "أتلانتا يونايتد",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/30499.png"
+    },
+    "awayTeam": {
+      "name": "شارلوت",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/69188.png"
+    },
+    "score": "2 - 3",
+    "date": "2025-07-20T02:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "سياتيل ساونديرز",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1347.png"
+    },
+    "awayTeam": {
+      "name": "سان خوسيه إرثكويكس",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1345.png"
+    },
+    "score": "3 - 2",
+    "date": "2025-07-20T03:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "كانساس سيتي ويزردز",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1335.png"
+    },
+    "awayTeam": {
+      "name": "نيويورك سيتي",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/20622.png"
+    },
+    "score": "1 - 1",
+    "date": "2025-07-20T03:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  },
+  {
+    "homeTeam": {
+      "name": "دالاس",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1341.png"
+    },
+    "awayTeam": {
+      "name": "سانت لويس سيتي",
+      "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/24474.png"
+    },
+    "score": "3 - 0",
+    "date": "2025-07-20T03:30:00+03:00",
+    "competition": "الدوري الأمريكي",
+    "matchLink": "#"
+  }
+]
